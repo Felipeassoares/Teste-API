@@ -1,14 +1,14 @@
-package com.capgemini.TesteAPI;
+package com.capgemini.Currency_API;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TesteApiApplication {
+public class CurrencyApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(TesteApiApplication.class, args);
+		SpringApplication.run(CurrencyApplication.class, args);
 	}
 
 }

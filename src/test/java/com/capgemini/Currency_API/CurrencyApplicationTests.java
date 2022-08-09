@@ -1,10 +1,10 @@
-package com.capgemini.TesteAPI;
+package com.capgemini.Currency_API;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TesteApiApplicationTests {
+class CurrencyApplicationTests {
 
 	@Test
 	void contextLoads() {

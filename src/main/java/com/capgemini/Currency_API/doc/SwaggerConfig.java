@@ -1,4 +1,4 @@
-package com.capgemini.TesteAPI.doc;
+package com.capgemini.Currency_API.doc;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

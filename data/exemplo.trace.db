@@ -108,7 +108,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -181,7 +181,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -260,7 +260,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -332,7 +332,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -412,7 +412,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -485,7 +485,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -564,7 +564,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -636,7 +636,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -750,7 +750,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -857,7 +857,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -938,7 +938,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -1012,7 +1012,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -1128,7 +1128,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -1237,7 +1237,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -1318,7 +1318,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -1392,7 +1392,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -1506,7 +1506,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -1613,7 +1613,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -1694,7 +1694,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -1768,7 +1768,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -1882,7 +1882,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -1989,7 +1989,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -2070,7 +2070,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -2144,7 +2144,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -2258,7 +2258,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -2365,7 +2365,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -2446,7 +2446,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -2520,7 +2520,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -2634,7 +2634,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -2741,7 +2741,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -2822,7 +2822,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -2896,7 +2896,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -2976,7 +2976,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -3049,7 +3049,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -3163,7 +3163,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -3270,7 +3270,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -3351,7 +3351,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -3425,7 +3425,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -3505,7 +3505,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -3578,7 +3578,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -3713,7 +3713,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -3820,7 +3820,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -3901,7 +3901,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -3975,7 +3975,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -4055,7 +4055,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -4128,7 +4128,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -4242,7 +4242,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -4349,7 +4349,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -4430,7 +4430,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -4504,7 +4504,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -4584,7 +4584,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -4657,7 +4657,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -4773,7 +4773,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -4882,7 +4882,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -4963,7 +4963,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -5037,7 +5037,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -5117,7 +5117,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -5190,7 +5190,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -5304,7 +5304,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -5411,7 +5411,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -5492,7 +5492,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -5566,7 +5566,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -5646,7 +5646,7 @@ org.h2.message.DbException: General error: "java.lang.IllegalStateException: The
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "java.lang.IllegalStateException: The write format 2 is larger than the supported format 1, and the file was not opened in read-only mode [1.4.200/5]" [50000-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:505)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
@@ -5719,7 +5719,7 @@ org.h2.message.DbException: File corrupted while reading record: null. Possible 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:307)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1317)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at com.capgemini.TesteAPI.TesteApiApplication.main(TesteApiApplication.java:10)
+	at com.capgemini.Currency_API.TesteApiApplication.main(TesteApiApplication.java:10)
 Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: null. Possible solution: use the recovery tool [90030-200]
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
