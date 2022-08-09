@@ -5,7 +5,6 @@ import java.io.Serializable;
 
 @Entity
 @SequenceGenerator(name = "seq_usuario", sequenceName = "seq_usuario", allocationSize = 1, initialValue = 1)
-@Table(name = "SLDG_TDIVISA")
 @AttributeOverride(name = "id", column = @Column(name = "OID_DIVISA", unique = true, nullable = false, length = 36))
 public class Usuario implements Serializable {
 
@@ -13,7 +12,9 @@ public class Usuario implements Serializable {
     private static final long serialVersionUID = 1L;
 
     @Id
-    private Long id;
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    @Column(name="usuario_id")
+    private Integer id;
     @Column(name = "COD_ISO")
     private String code;
     @Column(name = "DES_DIVISA")
@@ -21,11 +22,11 @@ public class Usuario implements Serializable {
     @Column(name = "DES_SIMBOLO")
     private String symbol;
 
-    public Long getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
